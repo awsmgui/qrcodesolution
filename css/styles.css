@@ -1,0 +1,35 @@
+body{
+    background-color: #D6E1F0;
+    text-align: center;
+}
+
+.body-text {
+    padding: 0px 16px;
+    font-family: 'Outfit', sans-serif;
+}
+
+h3 {
+    color:hsl(218, 44%, 22%);
+}
+p {
+    color:hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
+.container {
+    width:fit-content;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    margin: 150px 720px;
+    border:transparent 1px;
+    border-radius: 20px;
+}
+
+.qr-image {
+    border:transparent 1px;
+    border-radius: 20px;
+    text-align: center;
+    width: 280px;
+    
+}
